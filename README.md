@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Data%20Warehousing%20Specialist;10%2B%5years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
-# 🎸 Ana Vieira
-**`Crafting code, melodies, and victories: Developer, Guitarist, Gamer`**
+#🎸 Ana Vieira
+** `Crafting code, melodies, and victories: Developer, Guitarist, Gamer` **
 Hey there! I'm a full stack developer, ready to tackle both web and Android projects with ease. Whether it's crafting sleek interfaces or building robust backends, I've got the skills to make your ideas shine. Need help organizing data? No problem! I specialize in creating powerful data warehouses, ensuring your information is ready for analysis. And with my expertise in Microsoft's Power Platform – including Power Automate, Power Apps, and Power BI – I'll automate tasks, develop awesome apps, and turn your data into valuable insights. Let's team up and make your projects awesome!
 <br>
 <!-- Social icons section -->
@@ -18,12 +18,6 @@ Hey there! I'm a full stack developer, ready to tackle both web and Android proj
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
 <br/>
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -105,12 +99,4 @@ logoColor=white"></a>
   </p>
 </details>
 
-<br>
 
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
