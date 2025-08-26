@@ -18,7 +18,3 @@ Hey there! I'm a full stack developer, ready to tackle both web and Android proj
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<br/><br/>
-<p align="center">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6882734380c828c41c0fb8c6?variant=dark&roadmaps=aspnet-core" alt="roadmap.sh"/></a>
-</p>
