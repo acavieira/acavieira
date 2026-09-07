@@ -1,12 +1,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=System%20Administrator%20%7C%20Cloud%20%26%20Infrastructure;Azure%20%7C%20Terraform%20%7C%20Automation;Master%27s%20Thesis%20%7C%20Brain%20MRI%20Super-Resolution;Diffusion%20Models%20%7C%20Brain%20Tumor%20Classification&font=Fira%20Code&center=true&width=850&height=45&color=0078D4&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com/?lines=System%20Administrator%20%7C%20Cloud%20%26%20Infrastructure;Azure%20%7C%20Terraform%20%7C%20Automation;Master%27s%20Thesis%20%7C%20Brain%20MRI%20Super-Resolution;Diffusion%20Models%20%7C%20Brain%20Tumor%20Classification&font=Fira%20Code&center=true&width=900&height=55&color=0078D4&pause=1000&size=25"
       alt="System Administrator | Cloud & Infrastructure"
     />
   </a>
 </p>
-
 <div align="center">
   <h1>🎸 Ana Vieira</h1>
   <h2>
